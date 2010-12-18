@@ -1,5 +1,3 @@
-Protocol specification as used in [[QBitcoin]].
-
 Sources:
 * [[Original Bitcoin client]] source
 * [http://www.bitcoin.org/wiki/doku.php?id=bitcoins_draft_spec_0_0_1 Draft spec on bitcoin wiki]
